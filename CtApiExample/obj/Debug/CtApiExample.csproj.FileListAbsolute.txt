@@ -1,0 +1,10 @@
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/bin/Debug/CtApiExample.exe.config
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/obj/Debug/CtApiExample.Form1.resources
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/obj/Debug/CtApiExample.Properties.Resources.resources
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/obj/Debug/CtApiExample.csproj.GenerateResource.Cache
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/bin/Debug/CtApiExample.exe
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/bin/Debug/CtApiExample.pdb
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/obj/Debug/CtApiExample.exe
+c:/users/admin/documents/visual studio 2015/Projects/CtApiExample/CtApiExample/obj/Debug/CtApiExample.pdb
+/home/sbaranov/iqm/windows10_shared/AVEVA_scada/CtApiExample_WithAlarms/CtApiExample/CtApiExample/obj/Debug/CtApiExample.exe
+/home/sbaranov/iqm/windows10_shared/AVEVA_scada/CtApiExample_WithAlarms/CtApiExample/CtApiExample/obj/Debug/CtApiExample.pdb
